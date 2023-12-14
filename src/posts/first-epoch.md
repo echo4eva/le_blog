@@ -121,4 +121,4 @@ The way I wrote this blog is experimental, not sure if I like it, not sure if it
 
 I’m excited to learn more about deep learning in the future, especially natural language processing and generation. It’s what I set out to do in the first place, so I’m excited to see an expanded vision of “how to get there.”
 
-Anyways, I made this classification model, check it out, I’m tired. Bye.
+[Anyways, I made this classification model, check it out, I’m tired. Bye.](https://huggingface.co/spaces/echo4eva/minimal)
