@@ -2,6 +2,10 @@
     export let data
 </script>
 
+<head>
+    <title>blog4eva</title>
+</head>
+
 <section class="flex flex-col items-center px-5">
     <ul class="grid grid-flow-row min-w-screen">
         <p class="place-self-start text-2xl pb-5">Index of /brain/cache/thoughts</p>

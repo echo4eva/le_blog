@@ -11,7 +11,7 @@
     <p>
         <a href="https://twitter.com/echo4eva" target="_blank">twitter</a> . 
         <a href="https://github.com/echo4eva" target="_blank">github</a> . 
-        <a href="https://jerichoimperial.vercel.app/" target="_blank">website</a>
+        <a href="https://jerichoimperial.vercel.app/" target="_blank">portfolio</a>
     </p>
 </div>
 </div>
